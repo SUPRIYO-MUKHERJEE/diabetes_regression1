@@ -1,3 +1,3 @@
-# Bootstrap from MLOpsPython repository
+This folder is used for example data, and it is not meant to be used for storing training data.
 
-For steps on how to use the bootstrap script, please see the "Bootstrap the project" section of the [custom model guide](../docs/custom_model.md#bootstrap-the-project).
+Follow steps to [Configure Training Data](../docs/custom_model.md#Configure-Custom-Training) to use your own data for training.
